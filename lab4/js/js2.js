@@ -1,0 +1,1 @@
+// prazan file js2.js
